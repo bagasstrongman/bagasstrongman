@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Banner-Github.png](https://i.postimg.cc/RVZw1RtH/Banner-Github.png)](https://postimg.cc/14bgsDJm)
 
 <!--
 **bagasstrongman/bagasstrongman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
