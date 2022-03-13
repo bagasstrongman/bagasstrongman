@@ -11,7 +11,7 @@
         <img src="https://badges.pufler.dev/repos/Bagasstrongman?style=flat-square&color=690000" alt="Repos Badge"/>
     </a>
     <a href="https://badges.pufler.dev" target="_blank">
-        <img src="https://badges.pufler.dev/gists/Bagasstrongman?style=flat-square&color=690000" alt="Gists Badge"/>
+        <img src="https://badges.pufler.dev/gists/lordronz?style=flat-square&color=690000" alt="Gists Badge"/>
     </a>
     <a href="https://badges.pufler.dev" target="_blank">
         <img src="https://badges.pufler.dev/commits/monthly/Bagasstrongman?style=flat-square&color=690000" alt="Commits Badge"/>
