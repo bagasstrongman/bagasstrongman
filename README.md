@@ -34,6 +34,22 @@
    <img src="https://raw.githubusercontent.com/lordronz/lordronz/snek-output/github-contribution-grid-snake.svg" alt="Snek"/>
 </p>
 
+## ✅ Summary
+
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Bagasstrongman&theme=monokai" alt="lordronz"/>
+</p>
+
+## 💻 GitHub Profile Stats
+
+
+<p align="center">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bagasstrongman&show_icons=true&theme=monokai&locale=en&layout=compact&langs_count=10&hide=html,css,vue,cmake,jupyter%20notebook,scss,tex,smarty&exclude_repo=dotfiles,laravel-react-starter" alt="Top Lang"/>
+            <img src="https://github-readme-stats.vercel.app/api?username=Bagasstrongman&show_icons=true&theme=monokai&locale=en" alt="Bagasstrongman"/>
+            <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Bagasstrongman&theme=monokai&locale=en&layout=compact" alt="Bagasstrongman"/>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bagasstrongman&theme=monokai" alt="Bagasstrongman"/>
+</p>
+
  
 <!--
 **bagasstrongman/bagasstrongman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
