@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://github.com/Bagasstrongman/" target="_blank">
-        <img src="https://komarev.com/ghpvc/?username=Bagasstrongman&label=Profile%20views&color=690000&style=flat-square" alt="LordRonz"/>
+        <img src="https://komarev.com/ghpvc/?username=Bagasstrongman&label=Profile%20views&color=690000&style=flat-square" alt="Bagasstrongman"/>
     </a>
     <a href="https://badges.pufler.dev" target="_blank">
         <img src="https://badges.pufler.dev/years/Bagasstrongman?style=flat-square&color=690000" alt="Years Badge"/>
@@ -22,7 +22,7 @@
     <a href="https://badges.pufler.dev" target="_blank">
         <img src="https://img.shields.io/github/stars/Bagasstrongman?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub User's stars"/>
     </a>
-    <a href="https://github.com/lordronz/" target="_blank">
+    <a href="https://github.com/Bagasstrongman/" target="_blank">
         <img src="https://img.shields.io/badge/isAwesome-true-blue?style=flat-square&color=690000" alt="Bagasstrongman"/>
     </a>
 </p>
