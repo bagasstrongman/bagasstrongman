@@ -1,7 +1,7 @@
 [![Banner-2.png](https://i.postimg.cc/HsmdFZzr/Banner-2.png)](https://postimg.cc/Lhxc1VrS)
 
 <p align="center">
-    <a href="https://github.com/lordronz/" target="_blank">
+    <a href="https://github.com/Bagasstrongman/" target="_blank">
         <img src="https://komarev.com/ghpvc/?username=Bagasstrongman&label=Profile%20views&color=690000&style=flat-square" alt="LordRonz"/>
     </a>
     <a href="https://badges.pufler.dev" target="_blank">
