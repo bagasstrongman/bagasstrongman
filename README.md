@@ -40,7 +40,7 @@
 ## ✅ Summary
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Bagasstrongman&theme=monokai" alt="lordronz"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Bagasstrongman&theme=monokai" alt="Bagasstrongman"/>
 </p>
 
 ## 💻 GitHub Profile Stats
