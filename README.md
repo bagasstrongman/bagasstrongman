@@ -31,7 +31,7 @@
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
 
-
+<!--
 ## 🔭 Tools
 
  ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
@@ -40,6 +40,7 @@
 <p align="center">
    <img src="https://raw.githubusercontent.com/lordronz/lordronz/snek-output/github-contribution-grid-snake.svg" alt="Snek"/>
 </p>
+-->
 
 ## ✅ Summary
 
@@ -47,6 +48,18 @@
     <img src="https://github-profile-trophy.vercel.app/?username=Bagasstrongman&theme=monokai" alt="Bagasstrongman"/>
 </p>
 
+<h1 align="center">📈 Github Statistic 📊</h1>
+<p align="center">
+  <a href="https://github.com/bagasstrongman">
+    <img width="60.2%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bagasstrongman&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=FFFFFF&bg_color=000000"/>
+    <img width="38.4%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bagasstrongman&layout=compact&langs_count=10&theme=dark&bg_color=000000"/>
+    <img width="54.6%" src="https://github-readme-streak-stats.herokuapp.com/?user=bagasstrongman&theme=highcontrast&fire=ffffff&ring=ffffff&border=ffffff&currStreakLabel=ffffff"/>
+    <img width="44%" src="https://github-profile-trophy.vercel.app/?username=bagasstrongman&theme=onestar&column=4&margin-w=10&margin-h=10"/>
+    <img width="99.4%" src="https://activity-graph.herokuapp.com/graph?username=bagasstrongman&theme=react-dark&bg_color=000000&color=FFFFFF"/>
+  </a>
+</p>
+
+<!--
 ## 💻 GitHub Profile Stats
 
 
@@ -58,7 +71,7 @@
 </p>
 
  
-<!--
+
 **bagasstrongman/bagasstrongman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
