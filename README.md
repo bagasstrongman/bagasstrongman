@@ -42,13 +42,15 @@
 </p>
 -->
 
+<!--
 ## ✅ Summary
 
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Bagasstrongman&theme=monokai" alt="Bagasstrongman"/>
 </p>
+-->
 
-<h1 align="center">📈 Github Statistic 📊</h1>
+<h1 align="center"> Github Statistic </h1>
 <p align="center">
   <a href="https://github.com/bagasstrongman">
     <img width="60.2%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bagasstrongman&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=FFFFFF&bg_color=000000"/>
