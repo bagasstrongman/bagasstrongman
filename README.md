@@ -1,4 +1,4 @@
-[![Banner-2.png](https://i.postimg.cc/HsmdFZzr/Banner-2.png)](https://postimg.cc/Lhxc1VrS)
+[![Github-Profile.png](https://i.postimg.cc/Hxm8YHPj/Github-Profile.png)](https://postimg.cc/jW8SvVTr)
 
 <p align="center">
     <a href="https://github.com/Bagasstrongman/" target="_blank">
