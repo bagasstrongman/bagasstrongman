@@ -25,6 +25,7 @@
     <a href="https://github.com/Bagasstrongman/" target="_blank">
         <img src="https://img.shields.io/badge/isAwesome-true-blue?style=flat-square&color=000000" alt="Bagasstrongman"/>
     </a>
+   
 </p>
 
 <h1 align="left">Languages and Tools:</h1>
@@ -64,6 +65,9 @@
     </a>
     <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
+    </a> 
+    <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="vsc1" width="40" height="40"/>
     </a> 
    
 </p>
