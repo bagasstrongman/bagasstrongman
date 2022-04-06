@@ -44,6 +44,12 @@
     <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
         <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
     </a>
+    <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
+        <img src="https://worldvectorlogo.com/logos/photoshop-cc-4.svg" alt="photoshop" width="40" height="40"/> 
+    </a>
+     <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
+        <img src="https://worldvectorlogo.com/logos/premiere-cc.svg" alt="premiere" width="40" height="40"/> 
+    </a>
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
     </a> 
