@@ -99,6 +99,8 @@
 <a href="https://www.youtube.com/c/FlyMorphStudio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="developow" height="30" width="40" /></a>
 </p>
 
+<h1 align="left">Check my recent post on Medium:</h1>
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bagas-satria/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bagas-satria/0" alt="Recent Article 0">
 
 <h1 align="left"> Github Statistic: </h1>
 <p align="center">
