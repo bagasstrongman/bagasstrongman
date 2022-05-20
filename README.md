@@ -101,7 +101,8 @@
 </p>
 
 <h1 align="left">Check my recent post on Medium:</h1>
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bagas-satria/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bagas-satria/0" alt="Recent Article 0">
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bagas-satria/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bagas-satria/1" alt="Recent Article 1">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bagas-satria/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bagas-satria/0" alt="Recent Article 0">
 
 <h1 align="left"> Github Statistic: </h1>
 <p align="center">
