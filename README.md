@@ -1,5 +1,6 @@
 <!-- [![Github-Profile.png](https://i.postimg.cc/Hxm8YHPj/Github-Profile.png)](https://postimg.cc/jW8SvVTr) -->
 [![Github-Pages-Fix.png](https://i.postimg.cc/t4q2jjFs/Github-Pages-Fix.png)](https://postimg.cc/4m0z6jLG)
+[![Whatsapp-Bot-Pages.png](https://i.postimg.cc/9fSwXvNP/Whatsapp-Bot-Pages.png)](https://wa.me/+6288294888726?text=/bot) [![Whatsapp-Bot-Source-Code.png](https://i.postimg.cc/Jn2xL6jS/Whatsapp-Bot-Source-Code.png)](https://github.com/bagasstrongman/Whatsapp-Bot) 
 <p align="center">
     <a href="https://github.com/Bagasstrongman/" target="_blank">
         <img src="https://komarev.com/ghpvc/?username=Bagasstrongman&label=Profile%20views&color=000000&style=flat-square" alt="Bagasstrongman"/>
@@ -27,7 +28,8 @@
     </a>
    
 </p>
-<h1 align="left">Latest Project:</h1>
+<!--<h1 align="left">Latest Project:</h1>-->
+
 <h1 align="left">Languages and Tools:</h1>
 <p align="left"> 
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
